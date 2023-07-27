@@ -1,2 +1,2 @@
-# Calculator-
-A simple calculator user interface that has the capabilities of doing basic calculations. 
+# Calculator
+A neat and clean Calculator Interface using HTML and CSS made by Sarthak Saraf.
